@@ -2,4 +2,6 @@
 
 ## Note: It is illegal to copy any code from this repository.
 
-Some code from Machine Learning A-Z course
+Code from Super Data Science's Machine Learning A-Z course
+
+(This code has not been updated since I took the course in 2017.)
