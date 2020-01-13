@@ -1,6 +1,4 @@
-# Machine-Learning
-
-## Note: It is illegal to copy any code from this repository.
+# Machine-Learning A-Z
 
 Code from Super Data Science's Machine Learning A-Z course
 
